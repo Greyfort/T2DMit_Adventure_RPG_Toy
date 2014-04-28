@@ -1,0 +1,7 @@
+<ImageAsset
+    AssetName="lqrk_actn_green"
+    ImageFile="lqrk_actn_green.png"
+    CellCountX="8"
+    CellCountY="4"
+    CellWidth="16"
+    CellHeight="16" />

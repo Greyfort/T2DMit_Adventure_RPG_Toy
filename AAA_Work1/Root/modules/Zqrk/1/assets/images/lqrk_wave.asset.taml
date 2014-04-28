@@ -1,0 +1,7 @@
+<ImageAsset
+    AssetName="lqrk_wave"
+    ImageFile="lqrk_wave.png"
+    CellCountX="4"
+    CellCountY="3"
+    CellWidth="16"
+    CellHeight="16" />

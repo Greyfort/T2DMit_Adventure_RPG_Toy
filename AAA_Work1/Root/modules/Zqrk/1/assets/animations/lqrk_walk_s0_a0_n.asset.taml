@@ -1,0 +1,5 @@
+<AnimationAsset
+    AssetName="lrqk_walk_s0_a0_nAnimation"
+    Image="@asset=Zqrk:lqrk_actn_green"
+    AnimationFrames="16 17"
+    AnimationTime="2" />

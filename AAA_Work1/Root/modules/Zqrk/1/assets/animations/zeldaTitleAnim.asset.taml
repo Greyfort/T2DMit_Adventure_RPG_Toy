@@ -1,0 +1,5 @@
+<AnimationAsset
+    AssetName="zeldaTitleAnim"
+    Image="@asset=ToyAssets:zeldaTitle"
+    AnimationFrames="0 1 2 3"
+    AnimationTime="2" />

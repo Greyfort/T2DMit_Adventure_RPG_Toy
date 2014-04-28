@@ -1,0 +1,7 @@
+<ImageAsset
+    AssetName="lqrk_wand_blue"
+    ImageFile="lqrk_wand_blue.png"
+    CellCountX="4"
+    CellCountY="2"
+    CellWidth="28"
+    CellHeight="28" />

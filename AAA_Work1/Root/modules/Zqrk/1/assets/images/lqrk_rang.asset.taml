@@ -1,0 +1,7 @@
+<ImageAsset
+    AssetName="lqrk_rang"
+    ImageFile="lqrk_rang.png"
+    CellCountX="4"
+    CellCountY="5"
+    CellWidth="10"
+    CellHeight="10" />

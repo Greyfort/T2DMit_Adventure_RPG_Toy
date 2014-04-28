@@ -1,0 +1,7 @@
+<ImageAsset
+    AssetName="lqrk_swrd"
+    ImageFile="lqrk_swrd.png"
+    CellCountX="4"
+    CellCountY="4"
+    CellWidth="16"
+    CellHeight="16" />

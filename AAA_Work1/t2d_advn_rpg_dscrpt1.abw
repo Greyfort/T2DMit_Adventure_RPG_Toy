@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" styles="unlocked" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="3306" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.0" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="0.99.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="dc.format">application/x-abiword</m>
+<m key="abiword.generator">AbiWord</m>
+</metadata>
+<history version="101" edit-time="74772" last-saved="1398516118" uid="f0ce7be0-75ba-11df-8243-9d351a760d95">
+<version id="1" started="1276303222" uid="15c36ea6-75bb-11df-8243-9d351a760d95" auto="0" top-xid="2"/>
+<version id="2" started="1276890895" uid="5dedad74-7b13-11df-8418-ae52fa1affb2" auto="0" top-xid="65"/>
+<version id="3" started="1276891111" uid="de97344a-7b13-11df-93ea-a0bc48273df1" auto="0" top-xid="65"/>
+<version id="4" started="1278133818" uid="45a4d1d0-8661-11df-8dfc-bca3bc57dcd3" auto="0" top-xid="91"/>
+<version id="5" started="1278133852" uid="59fe43fa-8661-11df-80af-8934add313bc" auto="0" top-xid="91"/>
+<version id="7" started="1282016873" uid="8ebc1b38-a9b3-11df-9b03-8062b9fdc793" auto="0" top-xid="167"/>
+<version id="8" started="1282017498" uid="ab4c6776-a9b3-11df-9904-9153207c9982" auto="0" top-xid="174"/>
+<version id="18" started="1291679458" uid="acb27e90-01a4-11e0-80cd-bb5719398049" auto="0" top-xid="227"/>
+<version id="19" started="1291688335" uid="5732e488-01a8-11e0-9bd2-a58a66d2a71d" auto="0" top-xid="347"/>
+<version id="21" started="1291932732" uid="ca16a940-03e1-11e0-8767-e0b9816517d9" auto="0" top-xid="518"/>
+<version id="22" started="1291934497" uid="7b5535b6-03e5-11e0-9cbe-e57c999a585b" auto="0" top-xid="546"/>
+<version id="23" started="1292651395" uid="a3f69b5a-0a6a-11e0-80ad-e3aa4b54d173" auto="0" top-xid="546"/>
+<version id="24" started="1292651413" uid="aea2e23e-0a6a-11e0-8ef9-856d25be6bf0" auto="0" top-xid="546"/>
+<version id="25" started="1292913833" uid="ad2c0588-0ccd-11e0-84c5-e2550cc594d9" auto="0" top-xid="572"/>
+<version id="26" started="1292915508" uid="93721fd4-0cd1-11e0-93b0-df860c3579c7" auto="0" top-xid="572"/>
+<version id="27" started="1293273783" uid="c056c802-1013-11e0-8d4a-b9b808526e1c" auto="0" top-xid="574"/>
+<version id="28" started="1293273803" uid="cc285024-1013-11e0-8d6e-9ce3f1f53f64" auto="0" top-xid="574"/>
+<version id="29" started="1298946155" uid="c572265e-43aa-11e0-8563-dd96a7f4aaf9" auto="0" top-xid="576"/>
+<version id="31" started="1299544307" uid="20989612-491e-11e0-8b2b-911ad518d380" auto="0" top-xid="833"/>
+<version id="32" started="1299555627" uid="ceb6c2de-4935-11e0-8679-e619646fe2d4" auto="0" top-xid="834"/>
+<version id="33" started="1299555735" uid="0f0f19d0-4936-11e0-9d42-b1a15a60ddd9" auto="0" top-xid="834"/>
+<version id="34" started="1299649889" uid="47810d88-4a11-11e0-9e78-c701cd410f1f" auto="0" top-xid="838"/>
+<version id="35" started="1299649902" uid="4ef6c922-4a11-11e0-9484-98e25b8ad273" auto="0" top-xid="838"/>
+<version id="36" started="1300351242" uid="3e70447c-5072-11e0-989f-da1d6e3b763b" auto="0" top-xid="1184"/>
+<version id="37" started="1300692260" uid="3d06c558-538c-11e0-94a0-eeb45514e164" auto="0" top-xid="1224"/>
+<version id="38" started="1300905725" uid="404e1f70-557d-11e0-9bc3-fb6ff0eb08fb" auto="0" top-xid="1224"/>
+<version id="39" started="1301955344" uid="15c0fb84-5f09-11e0-88ac-ab8b5451d907" auto="0" top-xid="1241"/>
+<version id="41" started="1302061811" uid="bdc93e28-6007-11e0-97c6-8294dba36424" auto="0" top-xid="1292"/>
+<version id="42" started="1302409714" uid="ff499110-632a-11e0-8641-9f9d9b132c18" auto="0" top-xid="1768"/>
+<version id="43" started="1304225891" uid="9d045e96-73af-11e0-9183-91b8e0be96dd" auto="0" top-xid="1768"/>
+<version id="44" started="1304804506" uid="ce59170a-78f2-11e0-8cc4-e9c06ca8400d" auto="0" top-xid="1770"/>
+<version id="45" started="1304804937" uid="cf7109b2-78f3-11e0-929b-8f5f8c95527d" auto="0" top-xid="1770"/>
+<version id="46" started="1306539383" uid="21b38148-88ba-11e0-976a-b5bc8ef150c5" auto="0" top-xid="1770"/>
+<version id="47" started="1306623879" uid="dd916a32-897e-11e0-89e8-aa09942b8a29" auto="0" top-xid="1775"/>
+<version id="51" started="1306634695" uid="7b666efa-8999-11e0-8d18-fff566abda15" auto="0" top-xid="1777"/>
+<version id="52" started="1306868922" uid="66b68004-8bb9-11e0-9055-ee53bac96e79" auto="0" top-xid="1785"/>
+<version id="53" started="1308204883" uid="ed7e2718-97df-11e0-9c13-fb55cf818fed" auto="0" top-xid="1785"/>
+<version id="55" started="1308523176" uid="6a905680-9ac5-11e0-8788-d71c5c3ec134" auto="0" top-xid="1996"/>
+<version id="56" started="1308535154" uid="e6226fac-9ae0-11e0-9554-a77d67a3382d" auto="0" top-xid="2551"/>
+<version id="57" started="1308535597" uid="ee3685f6-9ae1-11e0-9c31-b6b20c56af24" auto="0" top-xid="2551"/>
+<version id="58" started="1311898374" uid="819e4352-b977-11e0-9bcb-9f224cde3e9f" auto="0" top-xid="2594"/>
+<version id="59" started="1311898394" uid="8d912c60-b977-11e0-98cc-d6ce67f825d5" auto="0" top-xid="2594"/>
+<version id="61" started="1312026849" uid="f467bee6-baa2-11e0-95dd-e18c79fc107d" auto="0" top-xid="2650"/>
+<version id="62" started="1312172386" uid="7d23a558-bbf5-11e0-94eb-e763d73fad4b" auto="0" top-xid="2707"/>
+<version id="63" started="1312333628" uid="e954aec0-bd6c-11e0-8320-f6e298719c9e" auto="0" top-xid="2707"/>
+<version id="64" started="1312428311" uid="5c47072a-be49-11e0-9e7b-d52d6a184cee" auto="0" top-xid="2708"/>
+<version id="65" started="1312429481" uid="1600926a-be4c-11e0-856f-8e1767fe14bb" auto="0" top-xid="2708"/>
+<version id="66" started="1312744908" uid="7f45a52c-c12a-11e0-8d3c-fc1edaac9620" auto="0" top-xid="2731"/>
+<version id="67" started="1312751673" uid="3f852c4a-c13a-11e0-8b52-e955dfc2d14f" auto="0" top-xid="2731"/>
+<version id="68" started="1312925028" uid="def81a78-c2cd-11e0-994c-828b3a418e8a" auto="0" top-xid="2731"/>
+<version id="70" started="1312950523" uid="c26a77ca-c309-11e0-9c40-c36f70309529" auto="0" top-xid="2757"/>
+<version id="71" started="1313098327" uid="5d679822-c461-11e0-91f0-dce981155cba" auto="0" top-xid="2764"/>
+<version id="72" started="1313437179" uid="50848f08-c776-11e0-9f26-ccf01d08e35b" auto="0" top-xid="2826"/>
+<version id="73" started="1314939014" uid="0bfcf152-d51f-11e0-8f6d-fe114fb36a5b" auto="0" top-xid="2826"/>
+<version id="81" started="1315516982" uid="afd6f142-da6a-11e0-9566-d08819372e92" auto="0" top-xid="2845"/>
+<version id="83" started="1315643267" uid="ce679144-db86-11e0-9ec4-fc6ea8358f38" auto="0" top-xid="2857"/>
+<version id="84" started="1316109332" uid="e7f63bd8-dfc3-11e0-92cc-f0467573f57d" auto="0" top-xid="2857"/>
+<version id="85" started="1316658401" uid="4e8ee34c-e4c2-11e0-8a1d-ccc1169b3268" auto="0" top-xid="2857"/>
+<version id="86" started="1321563315" uid="7365a142-115e-11e1-9cff-a0e3af572de3" auto="0" top-xid="2868"/>
+<version id="87" started="1322357153" uid="bfb4add8-1896-11e1-95c3-e931e9ad2ea3" auto="0" top-xid="2876"/>
+<version id="89" started="1322596179" uid="96d98ad6-1ad6-11e1-87af-f9791f67bf73" auto="0" top-xid="2886"/>
+<version id="90" started="1323040086" uid="d350cd18-1ecc-11e1-8d25-9524abc03f7a" auto="0" top-xid="3199"/>
+<version id="92" started="1326849851" uid="8415572c-4173-11e1-9c8a-ddcef76e0d31" auto="0" top-xid="3227"/>
+<version id="93" started="1329385247" uid="4de8adea-5882-11e1-9877-966dbbd78fa2" auto="0" top-xid="3237"/>
+<version id="97" started="1367084063" uid="ac98bc6c-af62-11e2-8a96-fc129d74c641" auto="0" top-xid="3244"/>
+<version id="98" started="1367086702" uid="d85b3fba-af66-11e2-8aa2-ef4d687e1ec3" auto="0" top-xid="3292"/>
+<version id="100" started="1398479442" uid="1004100e-ccee-11e3-9c91-a3600005b8d3" auto="0" top-xid="3292"/>
+<version id="101" started="1398516118" uid="2840fd9c-cd40-11e3-9b9a-e8309b6c466d" auto="0" top-xid="3306"/>
+</history>
+<styles>
+<s type="P" name="Normal" followedby="Current Settings" props="font-family:Times New Roman; margin-top:0pt; font-variant:normal; margin-left:0pt; bgcolor:transparent; widows:2; font-style:normal; text-indent:0in; text-position:normal; color:000000; font-weight:normal; line-height:1.0; text-align:left; text-decoration:none; font-size:12pt; margin-right:0pt; margin-bottom:0pt; font-stretch:normal"/>
+<s type="C" name="Reference" props="font-size:10pt"/>
+</styles>
+<pagesize pagetype="Letter" orientation="portrait" width="8.500000" height="11.000000" units="in" page-scale="1.000000"/>
+<section xid="1" props="page-margin-footer:0.5in; page-margin-header:0.5in; page-margin-left:0.5000in; page-margin-top:0.1250in; page-margin-bottom:0.4375in">
+<p style="Normal" xid="2" props="font-family:Times New Roman; dom-dir:ltr; color:000000; margin-left:0.0000in; text-align:left; text-indent:0.0000in; text-position:normal; font-style:normal; font-weight:normal; text-decoration:none; font-size:12pt">Th<c>is</c> Adventure Toy is a Zelda1 type, using Zelda sprite like<c>s</c> with a twist.  The RPG uses adventure resources for ease.  I may even just combine the two, I’m still undecided.  <c></c></p>
+<p style="Normal" xid="3295" props="font-family:Times New Roman; dom-dir:ltr; color:000000; margin-left:0.0000in; text-align:left; text-indent:0.0000in; text-position:normal; font-style:normal; font-weight:normal; text-decoration:none; font-size:12pt"><c></c></p>
+<p style="Normal" xid="3296" props="font-family:Times New Roman; dom-dir:ltr; color:000000; margin-left:0.0000in; text-align:left; text-indent:0.0000in; text-position:normal; font-style:normal; font-weight:normal; text-decoration:none; font-size:12pt">I’m posting all work here so others can see code for their use, and to help me with bugs.  <c></c></p>
+<p style="Normal" xid="3299" props="font-family:Times New Roman; dom-dir:ltr; color:000000; margin-left:0.0000in; text-align:left; text-indent:0.0000in; text-position:normal; font-style:normal; font-weight:normal; text-decoration:none; font-size:12pt"><c></c></p>
+<p style="Normal" xid="3300" props="font-family:Times New Roman; dom-dir:ltr; color:000000; margin-left:0.0000in; text-align:left; text-indent:0.0000in; text-position:normal; font-style:normal; font-weight:normal; text-decoration:none; font-size:12pt"><c></c>Also if you have any resources you would like to add...  Like GUI’s, Sprite work, Effects, Etc.  I will have a folder Contribute/1/...your stuff so it can be called or used.  Please include a “Read me” with any details of what you done.</p>
+<p style="Normal" xid="3301" props="font-family:Times New Roman; dom-dir:ltr; color:000000; margin-left:0.0000in; text-align:left; text-indent:0.0000in; text-position:normal; font-style:normal; font-weight:normal; text-decoration:none; font-size:12pt"><c></c></p>
+<p style="Normal" xid="3302" props="font-family:Times New Roman; dom-dir:ltr; color:000000; margin-left:0.0000in; text-align:left; text-indent:0.0000in; text-position:normal; font-style:normal; font-weight:normal; text-decoration:none; font-size:12pt">My hope Ultimately is to have a Toy out of the box that others can use to make their own, with minimal changes.  A Project/Tool set would be nice for world building, tiles, etc.  With a final compile for game distribute.  With out having to have VS, T2d, etc, Make game... distribute game... for simple and advanced.  <c></c></p>
+<p style="Normal" xid="3303" props="font-family:Times New Roman; dom-dir:ltr; color:000000; margin-left:0.0000in; text-align:left; text-indent:0.0000in; text-position:normal; font-style:normal; font-weight:normal; text-decoration:none; font-size:12pt"><c></c></p>
+<p style="Normal" xid="3304" props="font-family:Times New Roman; dom-dir:ltr; color:000000; margin-left:0.0000in; text-align:left; text-indent:0.0000in; text-position:normal; font-style:normal; font-weight:normal; text-decoration:none; font-size:12pt"><c></c>I don’t want to reinvent the wheel... I see there is an Out of date kit on git hub, I will keep my eye on that ( TGB Adventure Kit Found here :: https://github.com/SickheadGames/AdventureKit ) </p>
+<p style="Normal" xid="3297" props="font-family:Times New Roman; dom-dir:ltr; color:000000; margin-left:0.0000in; text-align:left; text-indent:0.0000in; text-position:normal; font-style:normal; font-weight:normal; text-decoration:none; font-size:12pt"><c></c></p>
+<p style="Normal" xid="3298" props="font-family:Times New Roman; dom-dir:ltr; color:000000; margin-left:0.0000in; text-align:left; text-indent:0.0000in; text-position:normal; font-style:normal; font-weight:normal; text-decoration:none; font-size:12pt">I’m eager to work with the new T3Dmit.  Thanks to all those at GG, and everyone who has help to make Torque so GR8 :)<c></c></p>
+<p style="Normal" xid="3305" props="font-family:Times New Roman; dom-dir:ltr; color:000000; margin-left:0.0000in; text-align:left; text-indent:0.0000in; text-position:normal; font-style:normal; font-weight:normal; text-decoration:none; font-size:12pt"><c></c></p>
+<p style="Normal" xid="3306" props="font-family:Times New Roman; dom-dir:ltr; color:000000; margin-left:0.0000in; text-align:left; text-indent:0.0000in; text-position:normal; font-style:normal; font-weight:normal; text-decoration:none; font-size:12pt">Greyfort<c></c></p>
+</section>
+</abiword>

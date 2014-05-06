@@ -1,7 +1,7 @@
 <ModuleDefinition
 	ModuleId="Zqrk"
 	VersionId="1"	
-		Group="gameBase"
+	Group="gameBase"	
 	Description="Zqrk Game"
 	ScriptFile="main.cs"
 	CreateFunction="create"

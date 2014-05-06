@@ -69,11 +69,20 @@ AssetDatabase.IgnoreAutoUnload = true;
 
 // Load AppCore module.
 //ModuleDatabase.LoadExplicit( "AppCore" );
-
+ModuleDatabase.LoadExplicit( "Zqrk" );
 //-----------------------------------------------------------------------------
 
+//define global variables
+$direction="none";
+$dup="up";
+$ddown="down";
+$dright="right";
+$dleft="left";
 
+$counter=0;
 
+$size="4 4";
+//-----------------------------------------------------------------------------
 
 function Zqrk::create( %this )
 {
@@ -97,16 +106,19 @@ function Zqrk::create( %this )
 	exec("./scripts/scene.cs");
 	createScene();
 	mySceneWindow.setScene(myScene);
-   
+   // create Backround
 	createBackground();
-    //createSpaceShip();
+	
+    //create player
 	createOPC();
 	//createAsteroids(20);   
-   
+  
     // these two calls create errors
 	//mySceneObject.createPolygonBoxCollisionShape( 10, 500);
     //mySceneObject.setBodyType( "static" ); 
 	//myScene.add(mySceneObject);
+	
+	//create Area creatures
 	
 	// input option
 	new ScriptObject(InputManager);

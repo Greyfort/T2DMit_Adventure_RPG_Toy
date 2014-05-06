@@ -40,17 +40,19 @@ function createOPC()
    // Set the position at the center of our Scene
     %opc.Position = "0 0";
    // Set the size.        
-    %opc.Size = "4 4";
+    %opc.Size = $size;
     // Set the layer closest to the camera (above the background)
     %opc.SceneLayer = 1;
 	// set speeds
-	%opcminSped="5";
+	%opc.minSped="5";
+	%opc.maxSpeed="15";
     // Set the scroller to use an animation!
 	//%anim = "TropicalAssets:lrqk_walk_s0_a0_sAnimation"; 
     %opc.Image = "Zqrk:lqrk_actn_green";
     // This creates a box which so that collisions with the screen edges register properly
     // Calling createPolygonBoxCollisionShape() without arguments sets the box to the size of the 
     // sceneobject automatically.
+	
     %opc.createPolygonBoxCollisionShape();	
 	//collision
 	%opc.setCollisionCallback( true );	
@@ -76,7 +78,13 @@ function createOPC()
 	
 }
 
-
+function opc::move (%this, %amount)
+{
+	%position = %this.getPostion();
+	//%newPosition = t2dVectorAdd(%postion,%amount);
+	//%this.setPostion(%newPosition);
+	//return % %newPosition;
+}
 
 
 // End of Script
